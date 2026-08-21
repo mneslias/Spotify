@@ -4,7 +4,7 @@ Analyse des Artistes les Plus Écoutés sur Spotify
 Dashboard Power BI – Analyse des tendances musicales mondiales (2024-2026)
 
 
-##Contexte et Objectifs
+## Contexte et Objectifs
 Ce dashboard a été conçu pour analyser les tendances d’écoute des artistes sur Spotify à l’échelle mondiale, en croisant :
 
 - La répartition géographique des streams (par continent/région).
@@ -19,10 +19,10 @@ Public cible :
 - Analystes data (pour benchmarker les performances).
 - Investisseurs dans l’industrie musicale (pour évaluer les marchés porteurs).
 
-##Objectif principal :
+## Objectif principal :
 Identifier les segments porteurs (genres, régions, types de streams) et les artistes dominants pour orienter les stratégies de promotion et de contenu.
 
-##Les insights clés
+## Les insights clés
 
 1. Les Lead Streams dominent l’écosystème musical
 
@@ -49,6 +49,6 @@ Les artistes femmes sont surreprésentées dans le genre Pop, mais sous-représe
 Seulement 20% des artistes streamés sont des femmes à l'échelle mondiale, avec des disparités marquées selon les pays (ex : l'Europe en général)
 
 
-##Merci d’avoir exploré ces insights !
+## Merci d’avoir exploré ces insights !
 
 N'hésitez pas à me faire un retour dessus, et d'explorer le fichier python puis le fichier PowerBI !
