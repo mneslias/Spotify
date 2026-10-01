@@ -2,7 +2,7 @@
 
 Analyse exploratoire des artistes les plus écoutés sur Spotify, à partir d’un classement de 500 artistes et d’un tableau de bord Power BI. Le notebook Python documente l’exploration des données ; le fichier Power BI propose une restitution interactive.
 
-> \*\*Périmètre indiqué par le notebook :\*\* janvier à juillet 2026. Le CSV est daté du `17\_07\_2026` dans son nom. Les fichiers fournis ne documentent pas davantage la méthode de collecte ni la définition exacte du classement.
+> \*\*Périmètre indiqué par le notebook :\*\* janvier à juillet 2026.
 
 ## Contenu du dépôt
 
